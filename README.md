@@ -33,11 +33,11 @@ Example Output:
 ╒════╤════════════════════════════════════════════╕
 │ No │ Book Title                                 │
 ╞════╪════════════════════════════════════════════╡
-│ 1  │ A Light in the Attic                        │
-│ 2  │ Tipping the Velvet                          │
-│ 3  │ Soumission                                  │
-│ 4  │ Sharp Objects                               │
-│ 5  │ Sapiens: A Brief History of Humankind       │
+│ 1  │ A Light in the Attic                       │
+│ 2  │ Tipping the Velvet                         │
+│ 3  │ Soumission                                 │
+│ 4  │ Sharp Objects                              │
+│ 5  │ Sapiens: A Brief History of Humankind      │
 ╘════╧════════════════════════════════════════════╛
 
 📜 Code Explanation
