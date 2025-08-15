@@ -36,9 +36,13 @@ Display in Table — Show results neatly using tabulate.
 <h2>🧰 Requirements</h2>
 
 Python 3.x
+
 requests
+
 beautifulsoup4
+
 tabulate
+
 Install them manually: pip install requests beautifulsoup4 tabulate
 
 <h2>⚠ Disclaimer</h2>
