@@ -16,7 +16,7 @@ The extracted data is then displayed in a well-formatted table for easy readabil
 <h2>📦 Installation</h2>
 
 1️⃣ Clone this repository
-git clone https://github.com/your-username/books-to-scrape.git
+git clone [https://github.com/your-username/books-to-scrape.git](https://github.com/Janhvigupta29/Web-Scraper-for-books)
 cd books-to-scrape
 
 2️⃣ Install dependencies
