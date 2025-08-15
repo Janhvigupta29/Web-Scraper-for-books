@@ -29,17 +29,6 @@ pip install -r requirements.txt (Make sure you have Python 3 installed.)
 Run the script to scrape book titles:
 python books_scraper.py
 
-Example Output:
-╒════╤════════════════════════════════════════════╕
-│ No │ Book Title                                 │
-╞════╪════════════════════════════════════════════╡
-│ 1  │ A Light in the Attic                       │
-│ 2  │ Tipping the Velvet                         │
-│ 3  │ Soumission                                 │
-│ 4  │ Sharp Objects                              │
-│ 5  │ Sapiens: A Brief History of Humankind      │
-╘════╧════════════════════════════════════════════╛
-
 📜 Code Explanation
 Import Libraries — requests for fetching web pages, BeautifulSoup for parsing HTML, tabulate for formatting tables.
 Set URL & Headers — Use a proper User-Agent to mimic a browser request.
