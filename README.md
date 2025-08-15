@@ -1,4 +1,5 @@
-📚 Books to Scrape — Web Scraping Project
+📚 Web Scraper for books Project
+
 📖 Overview
 
 This project demonstrates a Python-based web scraper that extracts book titles from the Books to Scrape website using requests and BeautifulSoup.
@@ -22,13 +23,13 @@ books-to-scrape/
 └── README.md           # Project documentation
 
 📦 Installation
+
 1️⃣ Clone this repository
 git clone https://github.com/your-username/books-to-scrape.git
 cd books-to-scrape
 
 2️⃣ Install dependencies
 pip install -r requirements.txt
-
 
 (Make sure you have Python 3 installed.)
 
